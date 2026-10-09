@@ -1,0 +1,322 @@
+{
+  "name": "ZinControlCenter NextGen",
+  "version": "4.1.4",
+  "release_type": "Core Governance, Admin Escape, and Workforce Email Integration full replacement build",
+  "files": [
+    {
+      "path": "ROADMAP.md",
+      "size": 12097,
+      "sha256": "9048b7504ae89e5a9a38019d52b57356a16bf352c5a288e016d897340a6d1b70"
+    },
+    {
+      "path": "STABLE-RELEASE-REPORT.md",
+      "size": 447,
+      "sha256": "5caaec779f36d42f6ee0c9880c482987609d9524843bd4b69283014b375abe64"
+    },
+    {
+      "path": "assets/css/app.css",
+      "size": 48875,
+      "sha256": "f962de78430e5cfa9e94b45bbb8b5a2f17c92ebaa5ce98f55aeb6a5a05819e6c"
+    },
+    {
+      "path": "assets/js/app.js",
+      "size": 26932,
+      "sha256": "06054e185d325750702aff1de13ac0b6305c38b748e38e3b736f085bbb61db21"
+    },
+    {
+      "path": "docs/3.1.0-STRATEGIC-OPERATIONS.md",
+      "size": 166,
+      "sha256": "4c5d4b65b915a8f7af16b58b6b14beadcc647fe0493ac96911a43b4c23f1ba6b"
+    },
+    {
+      "path": "docs/3.1.1-WORKFORCE-EXPERIENCE.md",
+      "size": 274,
+      "sha256": "c4de2e3436ecc0795e29c5e32b2c0bc2c60bec2f899b92f44b4d612220191688"
+    },
+    {
+      "path": "docs/3.2.0-COMMUNICATIONS-COMMAND.md",
+      "size": 264,
+      "sha256": "348c77c5e8bf92b225446f2cbc1fcd351fa6e416f3a71cb670a026491050c3fa"
+    },
+    {
+      "path": "docs/3.2.1-COMMUNICATIONS-CERTIFICATION.md",
+      "size": 252,
+      "sha256": "9e36a1952dd28bb8091aea08acb12b2420b77f39e816f5d9a352253de03f7dc8"
+    },
+    {
+      "path": "docs/3.3.0-CANDIDATE-MANAGEMENT.md",
+      "size": 342,
+      "sha256": "0343191ccb66b620c701c2a3b4dbb182a6eee64d2532db5fce9dbaf226ad95d6"
+    },
+    {
+      "path": "docs/3.3.1-CANDIDATE-INVITATIONS-LAYOUT.md",
+      "size": 296,
+      "sha256": "d1e5252d1feab99c24ce8d55aa5e781a7160503f1e357411ca259f9c97159cf7"
+    },
+    {
+      "path": "docs/3.3.2-HR-CANDIDATE-HOTFIX.md",
+      "size": 283,
+      "sha256": "26de4437864b8b8d5532595b5135bb636b7584463ea41a18bb82825001d7ced9"
+    },
+    {
+      "path": "docs/3.4.0-SMART-FORMS.md",
+      "size": 267,
+      "sha256": "458779755aaec57627a22fd65d0a9960534805c9a71a0aca8250a07b8e446c26"
+    },
+    {
+      "path": "docs/3.4.1-CANDIDATE-MAIL-DIAGNOSTICS.md",
+      "size": 337,
+      "sha256": "295a36bbac4089031cd36cac6899d4d91bac16897a440b00f7e2238222ad198e"
+    },
+    {
+      "path": "docs/3.4.2-EMAIL-STATUS-GLOW.md",
+      "size": 283,
+      "sha256": "be7f617643a51d54b11d640d8aa7cc02ced4a0d63db9cfa7fd891ea334c4b861"
+    },
+    {
+      "path": "docs/3.5.0-WORKFORCE-RECORDS-VAULT.md",
+      "size": 279,
+      "sha256": "170a5e130970ba49ac81a7e0b2daa88463dfe5cc00921fffb2059eb497a7d976"
+    },
+    {
+      "path": "docs/3.5.1-INSTALLER-PARSE-CORRECTION.md",
+      "size": 209,
+      "sha256": "0a8a37e956183979c586d05d9079c446a63939c18c097c5bd635ee8d983cbb5a"
+    },
+    {
+      "path": "docs/3.6.0-ARCHIVE-DIRECTORY.md",
+      "size": 346,
+      "sha256": "ea350def8840f8a8972715f31a311e03cd053732e48314394e2850dd1fe6e44b"
+    },
+    {
+      "path": "docs/3.7.0-SECURITY-OPERATIONS.md",
+      "size": 373,
+      "sha256": "d1a25a3618203342131dd605a6a50bf8eb661c223f31e37bd936fa796e65c120"
+    },
+    {
+      "path": "docs/3.7.1-SHARED-WIDGET-CONTROLS.md",
+      "size": 251,
+      "sha256": "55b852f99272d466fdb4791f0eb749856ce21979ec2a170b417072dfedc6dde9"
+    },
+    {
+      "path": "docs/3.8.0-WORKFORCE-ACADEMY.md",
+      "size": 331,
+      "sha256": "f9bce92898db3e79eb8bb1779f5e47716f0e421f210a3486dac06c725fb14348"
+    },
+    {
+      "path": "docs/3.9.0-KNOWLEDGE-CENTER.md",
+      "size": 346,
+      "sha256": "9212437dc4a033ff8782be120594f05ef22a8f6c64356c45e548831999e85ef5"
+    },
+    {
+      "path": "docs/4.0.0-WORKFORCE-LIFECYCLE-OS.md",
+      "size": 388,
+      "sha256": "5c462a2ec1bf569ee87ea5e05998c56e44c97b825edfa1e3ba81d05ac9d14962"
+    },
+    {
+      "path": "docs/4.0.1-LIFECYCLE-PARSE-CORRECTION.md",
+      "size": 185,
+      "sha256": "250c3c5d3370a2e07efa8e3e4944ee851e743ece4e86902bcbe51f3bdc9b28d6"
+    },
+    {
+      "path": "docs/4.0.2-WIDGET-FOCUS-AND-ORGANIZATION.md",
+      "size": 420,
+      "sha256": "a7d34ae3f635b3206012acf3cc189727efbb4e533e1706481205e89953197659"
+    },
+    {
+      "path": "docs/4.0.3-DASHBOARD-ORGANIZATION.md",
+      "size": 370,
+      "sha256": "faaaa88b96b494019f56f6acaabc306d1fccfcbc69fa896c7f7bb71e8983405f"
+    },
+    {
+      "path": "docs/4.0.4-WIDGET-SIZING-REPAIR.md",
+      "size": 313,
+      "sha256": "6e1093c857ea7d64041004477e3580b8b463e308ac3ed608264068b421344780"
+    },
+    {
+      "path": "docs/4.1.0-WORKFORCE-COMMUNICATIONS-SUITE.md",
+      "size": 457,
+      "sha256": "4e2a6722275c06d851d878bf013730b9a5cdd0d4e75e685d5ae26a1507f77024"
+    },
+    {
+      "path": "docs/4.1.1-COMMAND-WORKSPACE-ORGANIZATION.md",
+      "size": 467,
+      "sha256": "623b06b8ad9b645cb15d555f31a7bb5816747b7a5057d079af61905cc004a20a"
+    },
+    {
+      "path": "docs/4.1.2-UNIFIED-COMMAND-CENTER-EXPERIENCE.md",
+      "size": 689,
+      "sha256": "cbd9a42dd0c64a40ddfc324b647fcef5406bcae793d975258521b227463850a0"
+    },
+    {
+      "path": "docs/4.1.3-CORE-CONTROLS-AND-VIEWPORT-REPAIR.md",
+      "size": 771,
+      "sha256": "1daf0cd85b70bbec5d6239cf47f2aa5b6659f066503965d9f854c37aa1937f12"
+    },
+    {
+      "path": "docs/4.1.4-CORE-GOVERNANCE-EMAIL-INTEGRATION.md",
+      "size": 977,
+      "sha256": "94c679a7b56d14fc91d818ac841ca1b6d7b7131935b3ddaa60a0d6df0ecb34d9"
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "size": 1210,
+      "sha256": "cad9afbe1dbb83e0d28ef7234dbbbbaa1dd86aa4152ff8e39c6de27d16353d7c"
+    },
+    {
+      "path": "docs/RC1-AUDIT-REPORT.md",
+      "size": 790,
+      "sha256": "f61fbe0d4529ae10228699f08931ac6b0c18147bf5ce5a71d2a06a9ebff80db5"
+    },
+    {
+      "path": "docs/RC1-BUILD-REPORT.md",
+      "size": 576,
+      "sha256": "466816a50d56e116d245f765f4ff0ed69e78e7d0afea4c1885896cbb34d32372"
+    },
+    {
+      "path": "docs/RC2.4-RECOVERY.md",
+      "size": 730,
+      "sha256": "1126eb6a02e6160094adcccf26845b2347e6c253aeb484113080bf57517578eb"
+    },
+    {
+      "path": "docs/ROADMAP (1).md",
+      "size": 10251,
+      "sha256": "997e7810af5fe6b927a545850a471c477275020ba0ff284d439192b3edd1c0b7"
+    },
+    {
+      "path": "docs/STABLE-RELEASE-REPORT (1).md",
+      "size": 142,
+      "sha256": "b44f80d1a9ee63cbc8e58f3d1e83f452986aaa6be69f97a18f0370ca450fb723"
+    },
+    {
+      "path": "docs/STABLE-RELEASE-REPORT (2).md",
+      "size": 129,
+      "sha256": "d24c837ba51780c94c18b9acddb74294c58d66dc63a4dadda9ed84c10b08c3b6"
+    },
+    {
+      "path": "docs/STABLE-RELEASE-REPORT (3).md",
+      "size": 174,
+      "sha256": "663246fedc376262b301e063c1c77360b1ab647aa1d301eaf0aef392d89b996e"
+    },
+    {
+      "path": "docs/STABLE-RELEASE-REPORT.md",
+      "size": 127,
+      "sha256": "803e949f6cf163044a29549161c078ea978ba5e1ee2a3cf5a12dcd2becf58aff"
+    },
+    {
+      "path": "includes/class-academy.php",
+      "size": 7874,
+      "sha256": "443330afe8a45ec451115104e39d1701b8af36da07c71656a3d89b6071c3e4b7"
+    },
+    {
+      "path": "includes/class-admin.php",
+      "size": 52063,
+      "sha256": "f32380cb4465a302fea24c7eaa40ace29304c031a1e47a92d49bbf3ed376c2e3"
+    },
+    {
+      "path": "includes/class-api.php",
+      "size": 7270,
+      "sha256": "9fd846f54432ec4bb4ce751d8eec0e6c516e70e7d8a383e41ea977cf3d437d82"
+    },
+    {
+      "path": "includes/class-archives.php",
+      "size": 4310,
+      "sha256": "d6892e3830877e5dc55d44ba8234de62bdec57cbf43688890825951671d7f33d"
+    },
+    {
+      "path": "includes/class-audit.php",
+      "size": 841,
+      "sha256": "34463443cdeec8bebae2ca220fc153153fd33671d5e1294e0f45a2cd9fd8ff7a"
+    },
+    {
+      "path": "includes/class-candidates.php",
+      "size": 11202,
+      "sha256": "8e915b73935c106d876f9dd3b51daa958fa712b9bb8ea7aba80df3dbea2744b0"
+    },
+    {
+      "path": "includes/class-communications.php",
+      "size": 6677,
+      "sha256": "453e168ce72b459b3230bfdedc6a9251e0934f102fdecc5abf1db7a4eabef9a5"
+    },
+    {
+      "path": "includes/class-core-migrations.php",
+      "size": 1323,
+      "sha256": "40ef96ba12a0283419e5718810ffe89d2a45cbecf7467e73961ef25f6f6da29d"
+    },
+    {
+      "path": "includes/class-core-settings.php",
+      "size": 7585,
+      "sha256": "0542c695d92f0adbbe08b69d6c61e90edba6e7b1d35a2b172283ed10bb21ab84"
+    },
+    {
+      "path": "includes/class-documents.php",
+      "size": 6816,
+      "sha256": "ba1e8aa29c0c9916c1efd188bbfd55b3610b2d7c529461df021bc578f50aac0e"
+    },
+    {
+      "path": "includes/class-forms.php",
+      "size": 8818,
+      "sha256": "6c13d5e559a780bfb7f46b37020e0d210ba30d6573e08f6c189099744e185c71"
+    },
+    {
+      "path": "includes/class-icons.php",
+      "size": 1242,
+      "sha256": "0b9db30c8b554b26d0651a98b0655239abe2f523749a897f0562cafa4daa10d8"
+    },
+    {
+      "path": "includes/class-installer.php",
+      "size": 15216,
+      "sha256": "7a980d5271781c4d8ac93a98e7df6f25845a59b4a43f52abad0360eb1f3f4677"
+    },
+    {
+      "path": "includes/class-knowledge.php",
+      "size": 3661,
+      "sha256": "54ab6b5e510387e4bfd8466e007e160a7b93c58187c6b8bff7ebb0f5eb0bcf92"
+    },
+    {
+      "path": "includes/class-lifecycle.php",
+      "size": 5619,
+      "sha256": "330156f08cf96767ada67b576d9c9f55789efcaea9b89f3b6e8a0a11305b579a"
+    },
+    {
+      "path": "includes/class-permissions.php",
+      "size": 990,
+      "sha256": "2bced2e1f9ecbbfac580d7f58099d2aad96c90fadccb8254fad7b22de1aec12f"
+    },
+    {
+      "path": "includes/class-plugin.php",
+      "size": 728,
+      "sha256": "1658b8725b9cf1a4f57265ca269e527d4c3b410af8a9fd9a4f41626f838672a3"
+    },
+    {
+      "path": "includes/class-repository.php",
+      "size": 5320,
+      "sha256": "30d1c8f2e5f68a7d7612a378237f3d9126234900c691eed2875954c6caca564e"
+    },
+    {
+      "path": "includes/class-security.php",
+      "size": 6618,
+      "sha256": "bcb823301dcd9d41dc5b95600043f2d7207e5203bb3d1c9fbcec18c7ea69330a"
+    },
+    {
+      "path": "includes/class-workforce-mail.php",
+      "size": 10661,
+      "sha256": "1ce938b3dec8e8223620ace8e2de7973851052843770be49946eb32feca1421c"
+    },
+    {
+      "path": "readme.txt",
+      "size": 821,
+      "sha256": "3c1d3a4744cca7e59a5a858cdb60e9486c71827ff5f535097ba651b14cc2ae1a"
+    },
+    {
+      "path": "uninstall.php",
+      "size": 951,
+      "sha256": "c7d1a7f0404c8a0ccffe50d1f02dd128a1072def7dd58049fe5b448a517306d4"
+    },
+    {
+      "path": "zincontrolcenter-nextgen.php",
+      "size": 1152,
+      "sha256": "0833e8c116bb85baaf872e6fdf796b45f1343ec4d85763fa56af82571ea50ac0"
+    }
+  ]
+}
